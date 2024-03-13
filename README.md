@@ -20,19 +20,19 @@ The detection of camouflaged airplanes presents unique challenges due to the air
 
 This section explains how to organize your dataset and project files for optimal processing.
 
-Convert PASCAL VOC XML to YOLO
+- Convert PASCAL VOC XML to YOLO:
 Conversion steps to translate annotation files from PASCAL VOC XML format to YOLO format, making them compatible with YOLO object detection models.
 
-Explore Data
+- Explore Data:
 Detailed instructions and scripts for exploring the dataset, including visualization techniques to understand the data better before training.
 
-Training Data
+- Training Data: 
 Guidance on preparing your training data, including splitting the dataset into training and validation sets, and recommended practices for training object detection models.
 
-Test Data
+- Test Data: 
 Information on evaluating the model using a separate test dataset, ensuring the model's performance is accurately assessed against unseen data.
 
-Inference
+- Inference:
 Instructions on how to run the model for inference, including detecting camouflaged airplanes in new images or video streams.
 
 # Getting Started
@@ -44,7 +44,7 @@ Requirements
 
 Other dependencies listed in requirements.txt
 ```python
-git clone https://github.com/yourusername/camouflaged-airplane-detection.git
+git clone https://github.com/yourusername/camouflaged-airplane-detection.git](https://github.com/svshreya02/Camouflaged-Airplane-Detection.git
 cd camouflaged-airplane-detection
 pip install -r requirements.txt
 ```
