@@ -57,6 +57,4 @@ Provide instructions on how to use the scripts included in the repository to res
 Contributions to improve the project are welcome. Please follow the standard pull request process to submit your changes for review.
 
 # License
-Include information about the project's license here.
-
-Feel free to adjust the README based on the specific details and instructions contained within your notebook. If there are any specific commands or examples you'd like included, please let me know! ​
+Check LICENSE file
