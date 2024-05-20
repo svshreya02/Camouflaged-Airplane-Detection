@@ -1,5 +1,5 @@
 # Camouflaged Airplane Detection
-This repository contains a project focused on the detection of camouflaged airplanes using machine-learning techniques. The project employs a custom dataset and utilizes YOLO (You Only Look Once) for object detection tasks. This README outlines the steps and components of the project.
+This repository contains a project focused on the detection of camouflaged airplanes using machine-learning techniques. The project employs a custom dataset and utilizes YOLO (You Only Look Once) for object detection tasks. 
 
 # Overview
 The detection of camouflaged airplanes presents unique challenges due to the airplanes' design to blend with the surrounding environment. This project aims to tackle these challenges by using advanced machine-learning techniques for object detection.
