@@ -52,9 +52,5 @@ pip install -r requirements.txt
 # Usage
 Provide instructions on how to use the scripts included in the repository to restructure data, convert annotations, explore the dataset, train the model, and perform inference.
 
-
-# Contributing
-Contributions to improve the project are welcome. Please follow the standard pull request process to submit your changes for review.
-
 # License
 Check LICENSE file
